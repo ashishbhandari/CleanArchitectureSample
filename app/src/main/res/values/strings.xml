@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CleanArchitectureSample</string>
+
+    <string name="post_screen_title">User Post</string>
+
+    <string name="post_detail_screen_title">Post Detail</string>
+
+    <string name="failure_network_connection">No Network Connection.</string>
+    <string name="failure_server_error">Server Error</string>
+    <string name="failure_post_list_unavailable">Post Unavailable.</string>
+    <string name="failure_post_non_existent">Post Not Existent.</string>
+
+</resources>
